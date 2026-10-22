@@ -1,0 +1,2 @@
+# El proyecto usa solo la biblioteca estándar de Python (3.10 o superior).
+# No hace falta instalar paquetes adicionales.
